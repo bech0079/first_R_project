@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/Gapminder-demo/Data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
